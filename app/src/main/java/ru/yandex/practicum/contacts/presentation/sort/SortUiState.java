@@ -8,4 +8,5 @@ public class SortUiState {
     public String newSelectedSortType = null;
 
     // реализуйте get и set методы для обоих полей
+    ////
 }
